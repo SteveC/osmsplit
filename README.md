@@ -14,6 +14,10 @@ Install osmium:
 
 `apt-get install osmium-tool`
 
+Move all the data in to the root folder
+
+`cp data/* .`
+
 Run all the extracts (this will take some time). Edit the script to update which planet file you want to use.
 
 `./run_all.sh`
