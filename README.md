@@ -5,6 +5,7 @@ Split a planet file in to many countries, kind of like [geofabrik's download sit
 To just run all the countries, first get a copy of the OSM planet file:
 
 `apt-get install rtorrent`
+
 `rtorrent https://planet.openstreetmap.org/pbf/planet-201130.osm.pbf.torrent`
 
 Note, that isn't the latest planet file, go get a better link.
